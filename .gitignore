@@ -1,5 +1,3 @@
-__pycache__
-dist
-edge_impulse_linux.egg-info
-build
-*.jpg
+# Default ignored files
+/shelf/
+/workspace.xml
